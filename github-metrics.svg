@@ -221,7 +221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>udhos/update-golang</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">update-golang is a script to easily fetch and install new Golang releases with minimum system intrusion</div>
@@ -274,7 +274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>raspberrypi/rpi-image-gen</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool to generate highly customised software images for Raspberry Pi devices.</div>
@@ -424,7 +424,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Apr 2025, 13:17:45 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Apr 2025, 14:10:54 (timezone America/Chicago) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
